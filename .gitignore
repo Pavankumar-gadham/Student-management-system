@@ -1,0 +1,10 @@
+# Ignore virtual environment
+envv/
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore other system files
+*.log
+*.sqlite3
